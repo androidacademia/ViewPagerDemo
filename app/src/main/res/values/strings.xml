@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">ViewPagerDemo</string>
+    <array name="quoteList">
+        <item>
+            "Success is not final; failure is not fatal: It is the courage to continue that counts."
+            -- Winston S. Churchill
+        </item>
+        <item>
+            "It is better to fail in originality than to succeed in imitation."
+            -- Herman Melville
+        </item>
+        <item>
+            "The road to success and the road to failure are almost exactly the same."
+            -- Colin R. Davis
+        </item>
+        <item>
+            "Success usually comes to those who are too busy to be looking for it."
+            -- Henry David Thoreau
+        </item>
+        <item>
+            "Opportunities don't happen. You create them."
+            -- Chris Grosser
+        </item>
+        <item>
+            "There are two types of people who will tell you that you cannot make a difference in this world: those who are afraid to try and those who are afraid you will succeed."
+            -- Ray Goforth
+        </item>
+        <item>
+            "Successful people do what unsuccessful people are not willing to do. Don't wish it were easier; wish you were better."
+            -- Jim Rohn
+        </item>
+        <item>
+            "Try not to become a man of success. Rather become a man of value."
+            -- Albert Einstein
+        </item>
+        <item>
+            "Never give in except to convictions of honor and good sense."
+            -- Winston Churchill
+        </item>
+    </array>
+</resources>
